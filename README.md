@@ -17,6 +17,8 @@ Documentación Oficial: https://pypi.org/project/Faker/
 <hr/>
 
 ![](./preview1.png)
+<br/><br/>
+![](./preview2.png)
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
